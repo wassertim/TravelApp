@@ -7,7 +7,5 @@
 out
 gen
 .settings
-.classpath
-.project
 build
 target
